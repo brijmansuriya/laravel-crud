@@ -1,0 +1,36 @@
+Robot Balok
+
+Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller architectural pattern.
+
+GitHub is a web-based hosting service for version control using git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.
+
+This video is about how to run Laravel project after downloading from github/gitlab | Robot Balok.
+
+Step:
+1. download or clone project
+2. Go to the folder application using cd
+3. Run composer install on your cmd or terminal
+4. Copy .env.example file to .env on root folder.----- comand:-copy .env.example .env------
+    You can type copy .env.example .env if using command prompt Windows or cp .env.example .env if using terminal Ubuntu
+5. Open your .env file and change the database name (DB_DATABASE)
+6. Run php artisan key:generate
+7. Run php artisan migrate
+8.Run php artisan serve
+
+Tutorial by: Mohammad Ali Khan
+             Founder & CEO, Robot Balok
+
+If you have any query then contact with me.
+
+Contact: 
+Email: xvirus.bd@gmail.com
+
+Follow me on social site:
+
+facebook: https://www.facebook.com/robotbalok 
+          https://www.facebook.com/groups/robot...
+          
+twitter: https://twitter.com/Blue_fellings
+linkedin: https://www.linkedin.com/in/bluefellings
+instagram: https://www.instagram.com/blue_fellings
+web: http://www.makgr.com/
