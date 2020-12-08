@@ -76,3 +76,5 @@ class shop extends Controller
 -------------------------------------------------------------------------------------------------------------------------------------
 Route::get('/show','insert@show')->middleware('auth');;//->middleware('auth')
 
+image upload :-https://stackoverflow.com/questions/28563018/laravel-displaying-image-from-database
+
